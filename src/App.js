@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import { FiRefreshCw,FiArrowDownCircle,FiPlusCircle } from 'react-icons/fi';
 import Player from './components/player.component';
+import Image from './components/diceImage/dice-img.components';
 
 
 class App extends React.Component {
@@ -105,8 +106,8 @@ class App extends React.Component {
       <div className="wrapper clearfix">
         <p className="para"><center>Game Limit - {this.state.winCount}</center></p>
         <Player game = {this.state.players[0]}></Player>
-        <img className="dice dice-1" alt="Dice" src={this.state.gameDisabled ? require('./images/flag.gif') : require('./images/dice-'+this.state.diceCount1+'.png')}></img>
-        <img className="dice dice-2" alt="Dice" src={this.state.gameDisabled ? require('./images/flag.gif') : require('./images/dice-'+this.state.diceCount2+'.png')}></img>
+        <Image id={1} gameState={this.state.gameDisabled} diceCount={this.state.diceCount1}></Image>
+        <Image id={2} gameState={this.state.gameDisabled} diceCount={this.state.diceCount2}></Image>
         <button className="btn-new" style={style1} onClick={this.newGame}><FiPlusCircle/>New game</button>
         <button className="btn-roll" style={style} onClick={this.rollDice}><FiRefreshCw/>Roll dice</button>
         <button className="btn-hold" style={style} onClick={this.holdNpass}><FiArrowDownCircle/>Hold</button>
