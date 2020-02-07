@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pig-game/static/css/main.0ca1faf9.chunk.css",
-    "main.js": "/pig-game/static/js/main.b22cc418.chunk.js",
-    "main.js.map": "/pig-game/static/js/main.b22cc418.chunk.js.map",
-    "runtime-main.js": "/pig-game/static/js/runtime-main.414a0911.js",
-    "runtime-main.js.map": "/pig-game/static/js/runtime-main.414a0911.js.map",
-    "static/js/2.6354d975.chunk.js": "/pig-game/static/js/2.6354d975.chunk.js",
-    "static/js/2.6354d975.chunk.js.map": "/pig-game/static/js/2.6354d975.chunk.js.map",
-    "index.html": "/pig-game/index.html",
-    "precache-manifest.ee4b2d8434e1f50a41703e5f5de8d6af.js": "/pig-game/precache-manifest.ee4b2d8434e1f50a41703e5f5de8d6af.js",
-    "service-worker.js": "/pig-game/service-worker.js",
-    "static/css/main.0ca1faf9.chunk.css.map": "/pig-game/static/css/main.0ca1faf9.chunk.css.map",
-    "static/js/2.6354d975.chunk.js.LICENSE.txt": "/pig-game/static/js/2.6354d975.chunk.js.LICENSE.txt",
-    "static/media/flag.gif": "/pig-game/static/media/flag.f8af2c81.gif"
+    "main.css": "/pig-game/play/static/css/main.0ca1faf9.chunk.css",
+    "main.js": "/pig-game/play/static/js/main.e7dcadc5.chunk.js",
+    "main.js.map": "/pig-game/play/static/js/main.e7dcadc5.chunk.js.map",
+    "runtime-main.js": "/pig-game/play/static/js/runtime-main.8b088e6e.js",
+    "runtime-main.js.map": "/pig-game/play/static/js/runtime-main.8b088e6e.js.map",
+    "static/js/2.6354d975.chunk.js": "/pig-game/play/static/js/2.6354d975.chunk.js",
+    "static/js/2.6354d975.chunk.js.map": "/pig-game/play/static/js/2.6354d975.chunk.js.map",
+    "index.html": "/pig-game/play/index.html",
+    "precache-manifest.e45002e40ddbf86034c855e0e60c488b.js": "/pig-game/play/precache-manifest.e45002e40ddbf86034c855e0e60c488b.js",
+    "service-worker.js": "/pig-game/play/service-worker.js",
+    "static/css/main.0ca1faf9.chunk.css.map": "/pig-game/play/static/css/main.0ca1faf9.chunk.css.map",
+    "static/js/2.6354d975.chunk.js.LICENSE.txt": "/pig-game/play/static/js/2.6354d975.chunk.js.LICENSE.txt",
+    "static/media/flag.gif": "/pig-game/play/static/media/flag.f8af2c81.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.414a0911.js",
+    "static/js/runtime-main.8b088e6e.js",
     "static/js/2.6354d975.chunk.js",
     "static/css/main.0ca1faf9.chunk.css",
-    "static/js/main.b22cc418.chunk.js"
+    "static/js/main.e7dcadc5.chunk.js"
   ]
 }
