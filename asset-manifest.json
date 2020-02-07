@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pig-game/static/css/main.0ca1faf9.chunk.css",
+    "main.js": "/pig-game/static/js/main.b22cc418.chunk.js",
+    "main.js.map": "/pig-game/static/js/main.b22cc418.chunk.js.map",
+    "runtime-main.js": "/pig-game/static/js/runtime-main.414a0911.js",
+    "runtime-main.js.map": "/pig-game/static/js/runtime-main.414a0911.js.map",
+    "static/js/2.6354d975.chunk.js": "/pig-game/static/js/2.6354d975.chunk.js",
+    "static/js/2.6354d975.chunk.js.map": "/pig-game/static/js/2.6354d975.chunk.js.map",
+    "index.html": "/pig-game/index.html",
+    "precache-manifest.ee4b2d8434e1f50a41703e5f5de8d6af.js": "/pig-game/precache-manifest.ee4b2d8434e1f50a41703e5f5de8d6af.js",
+    "service-worker.js": "/pig-game/service-worker.js",
+    "static/css/main.0ca1faf9.chunk.css.map": "/pig-game/static/css/main.0ca1faf9.chunk.css.map",
+    "static/js/2.6354d975.chunk.js.LICENSE.txt": "/pig-game/static/js/2.6354d975.chunk.js.LICENSE.txt",
+    "static/media/flag.gif": "/pig-game/static/media/flag.f8af2c81.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.414a0911.js",
+    "static/js/2.6354d975.chunk.js",
+    "static/css/main.0ca1faf9.chunk.css",
+    "static/js/main.b22cc418.chunk.js"
+  ]
+}
